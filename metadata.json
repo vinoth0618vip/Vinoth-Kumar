@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Plus PMS",
+  "description": "Attendance Plus Progress Management System (PMS) — Integrated Employee Attendance, Punch In/Out, Site Management, Work Progress Monitoring, Work Guide Management, Employee Points, and Reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
